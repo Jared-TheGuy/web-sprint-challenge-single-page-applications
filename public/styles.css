@@ -1,0 +1,15 @@
+.topBar {
+    display: flex;
+    justify-content: space-around;
+    border: black 1px solid;
+    background-color: aquamarine;
+    align-items: center;
+}
+
+.formContainer {
+    border: black 1px solid;
+    display: inline-block;
+    padding: 30px;
+    background-color: ghostwhite;
+    margin-left: 35%;
+}
